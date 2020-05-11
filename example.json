@@ -1,0 +1,16 @@
+{
+    "main_mark":"main",
+    "return_mark":"jr",
+    "to_instrument": 
+    {
+        "sd": {
+            "before":["    call puts@plt"],
+            "after":[],
+            "inst_functions":true,
+            "inst_main":true
+        }
+    },
+    "to_add_start_file":["#sexo no começo"],
+    "to_add_before_main":["#Sexo na meiota"],
+    "to_add_before_return":["#sexo antes de ir embora"]
+}
